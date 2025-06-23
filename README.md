@@ -13,4 +13,4 @@
 
 ## 📫 Contacto
 
-Si te interesa colaborar o te molan las herramientas que estoy sacando, ¡conecta por [LinkedIn](https://www.linkedin.com/in/miguelcidpaz/)!
+Si te interesa colaborar o te molan las herramientas que estoy sacando, ¡conecta por [LinkedIn]([https://www.linkedin.com/in/miguelcidpaz/](https://www.linkedin.com/in/miguel-cid-paz-picon/)!
