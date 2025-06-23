@@ -11,20 +11,6 @@
 
 ---
 
-## 🔥 Actividad reciente
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelCidPaz&theme=tokyonight&hide_border=true)
-
----
-
-## 🚀 Últimos lanzamientos públicos
-
-- 🧪 **UI-LAB** — Sistema de documentación y prueba de componentes React, con soporte para props complejas, vista dinámica y exportación.  
-- 🔐 **DataKeyring** — Llavero de formatos para manejar CSV, JSON, JSONL y Parquet por bloques, desacoplado y multiplataforma.  
-- 🧩 **Dataslice** — Orquestador de acciones multihilo para flujos de datos complejos, diseñado para eficiencia y modularidad en backend.
-
----
-
 ## 📫 Contacto
 
 Si te interesa colaborar o te molan las herramientas que estoy sacando, ¡conecta por [LinkedIn](https://www.linkedin.com/in/miguelcidpaz/)!
