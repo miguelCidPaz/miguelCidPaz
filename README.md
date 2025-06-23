@@ -13,7 +13,7 @@
 
 ## 🔥 Actividad reciente
 
-![Streak](https://streak-stats.demolab.com?user=miguelCidPaz&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelCidPaz&theme=tokyonight&hide_border=true)
 
 ---
 
