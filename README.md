@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel
 
-<!--
-**miguelCidPaz/miguelCidPaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Backend developer con foco en sistemas eficientes, procesamiento de datos y herramientas útiles.  
+🎯 Actualmente construyendo mi propio stack técnico: desde UI tools hasta un SaaS completo de predicción.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías principales
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelCidPaz&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Actividad reciente
+
+![Streak](https://streak-stats.demolab.com?user=miguelCidPaz&theme=tokyonight&hide_border=true)
+
+---
+
+## 🚀 Últimos lanzamientos públicos
+
+- 🧪 **UI-LAB** — Sistema de documentación y prueba de componentes React, con soporte para props complejas, vista dinámica y exportación.  
+- 🔐 **DataKeyring** — Llavero de formatos para manejar CSV, JSON, JSONL y Parquet por bloques, desacoplado y multiplataforma.  
+- 🧩 **Dataslice** — Orquestador de acciones multihilo para flujos de datos complejos, diseñado para eficiencia y modularidad en backend.
+
+---
+
+## 📫 Contacto
+
+Si te interesa colaborar o te molan las herramientas que estoy sacando, ¡conecta por [LinkedIn](https://www.linkedin.com/in/miguelcidpaz/)!
